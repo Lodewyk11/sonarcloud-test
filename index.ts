@@ -1,8 +1,7 @@
 export class TestClass {
 
    public main(): void {
-	console.log("Hello world");
-
+	console.log("This is a test")
    }
 
 
