@@ -14,7 +14,8 @@ export class TestClass {
 	} catch(err) {
 		console.log(err);
 	}
-	console.log("This is a test")
+	console.log("This is a test");
+	window.open("https://example.com/dangerous");
    }
 
 
